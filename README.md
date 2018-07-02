@@ -22,6 +22,7 @@ Artifical neural networks try to mimic this process:
 
 
 ***Useful links***
+
 [Neural Network Fundamentals] (https://www.analyticsvidhya.com/blog/2016/03/introduction-deep-learning-fundamentals-neural-networks/)
 
 
