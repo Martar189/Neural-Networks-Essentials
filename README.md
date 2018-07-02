@@ -10,6 +10,8 @@ Neurons are nerve cells and are responsible for carring messages through the ner
 
 A typical neuron consists of a cell body that has many branches called dendrites. Signals received by the dendrites affect the electrical charge of the cell body, determining the likelihood of an action potential. If the soma is depolarized enough then the axon hillock region initiates an action potential that travels down the tail-like axon. Myelin sheaths protect them and increase their conductivity, or signal speed. The electric signal zips down to the axon terminal. The terminal branches then release neurotransmitters, which have an excitatory or inhibitory effect on their target (other neurons, glands, organs). 
 
+[Neurons - Useful link] (https://www.visiblebody.com/learn/nervous/neurons)
+
 ![Neuron Diagram](https://www.wpclipart.com/medical/anatomy/nervous_system/neuron/neuron.png)
 
 Artifical neural networks try to mimic this process:
@@ -18,6 +20,9 @@ Artifical neural networks try to mimic this process:
 - Hidden layers == Axon
 - Output level layer == Axon terminal
 
+
+***Useful links***
+[Neural Network Fundamentals] (https://www.analyticsvidhya.com/blog/2016/03/introduction-deep-learning-fundamentals-neural-networks/)
 
 
 
