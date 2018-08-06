@@ -27,6 +27,7 @@ Artifical neural networks try to mimic this process:
 
 [Neural Network Fundamentals](https://www.analyticsvidhya.com/blog/2016/03/introduction-deep-learning-fundamentals-neural-networks/)
 
+[CNN and Image Recognition](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
 
 
 
