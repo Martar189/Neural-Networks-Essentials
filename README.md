@@ -29,6 +29,8 @@ Artifical neural networks try to mimic this process:
 
 [CNN and Image Recognition](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
 
+[Multichannel Input Convolution Animation](http://machinelearninguru.com/_images/topics/computer_vision/basics/convolutional_layer_1/rgb.gif)
+
 
 
 
