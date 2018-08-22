@@ -31,6 +31,8 @@ Artifical neural networks try to mimic this process:
 
 [Multichannel Input Convolution Animation](http://machinelearninguru.com/_images/topics/computer_vision/basics/convolutional_layer_1/rgb.gif)
 
+[Deeplearning Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning.html#nn)
+
 
 
 
